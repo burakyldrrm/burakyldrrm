@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Burak Yildirim @burakyldrrm
+- 👋 Hi, I’m Burak Yildirim @burakyldrm
 - 👀 I’m interested in software engineering,social media expertise
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
