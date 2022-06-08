@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Burak Yildirim @burakyldrm
 - 👀 I’m interested in software engineering,social media expertise
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on social media and software
 - 📫 How to reach me mail:burakyildirim2580@gmail.com
 - twitter:burakyldrrm1
 - 
